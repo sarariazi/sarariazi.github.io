@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sara Riazi, Ph.D"
+title                    : "Sara Riazi, Ph.D."
 title_separator          : "-"
 name                     : &name "Sara Riazi"
 description              : &description "Visiting Assistant Professor"
