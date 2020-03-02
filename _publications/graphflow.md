@@ -15,11 +15,11 @@ citation: 'S. Riazi and B. Norris, GraphFlow: Workflow-Based Big Graph Processin
 Recommended citation: S. Riazi and B. Norris, GraphFlow: Workflow-Based Big Graph Processing, In Proc. of 2016 IEEE International Conference on Big Data (Big Data), 2016.
 
 
-'@INPROCEEDINGS{graphflow,
-  author={Riazi, S. and Norris, B.},
-  booktitle={2016 IEEE International Conference on Big Data (Big Data)},
-  title={GraphFlow: Workflow-based big graph processing},
-  year={2016},
-  pages={3336-3343},
-  doi={10.1109/BigData.2016.7840993}
+'@INPROCEEDINGS{graphflow, <br>
+  author={Riazi, S. and Norris, B.}, <br>
+  booktitle={2016 IEEE International Conference on Big Data (Big Data)}, <br>
+  title={GraphFlow: Workflow-based big graph processing}, <br>
+  year={2016}, <br>
+  pages={3336-3343}, <br>
+  doi={10.1109/BigData.2016.7840993} <br>
 }'
