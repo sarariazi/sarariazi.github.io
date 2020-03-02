@@ -2,7 +2,7 @@
 title: "Distributed-Memory Vertex-Centric Network Embedding for Large-Scale Graphs"
 collection: publications
 permalink: /publication/vcne
-excerpt: 'This paper introduces VCNE, a network embedding approach for very large graphs.'
+excerpt: 'This paper introduces VCNE, a network embedding approach for very large graphs. <img width="50%" src="/images/vcne.png" />'
 date: 2019-11-01
 venue: 'IEEE DataCom'
 paperurl: 'http://sarariazi.github.io/files/vcne.pdf'
