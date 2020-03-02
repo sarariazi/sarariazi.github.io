@@ -20,5 +20,5 @@ Recommended citation: S. Riazi and B. Norris, GraphFlow: Workflow-Based Big Grap
   title={GraphFlow: Workflow-based big graph processing},
   year={2016},
   pages={3336-3343},
-  doi={10.1109/BigData.2016.7840993},
-month={Dec},}
+  doi={10.1109/BigData.2016.7840993}
+  }
