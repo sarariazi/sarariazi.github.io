@@ -12,3 +12,13 @@ citation: 'S. Riazi, S. Srinivasan, S. K. Das, S. Bhowmick and B. Norris, Single
 <img width='30%' src='/images/sssp.png' />
 
 [Download paper here](http://sarariazi.github.io/files/sssp.pdf)
+<br>
+<br>
+
+'@INPROCEEDINGS{riazi&al18, <br>
+author={S. {Riazi} and S. {Srinivasan} and S. K. {Das} and S. {Bhowmick} and B. {Norris}}, <br>
+booktitle={2018 IEEE International Conference on Big Data (Big Data)}, <br>
+title={Single-Source Shortest Path Tree for Big Dynamic Graphs}, <br>
+year={2018}, <br>
+pages={4054-4062} <br>
+}'
