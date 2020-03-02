@@ -1,5 +1,5 @@
 ---
-title: "GraphFlow: Workflow-based big graph processing"
+title: "GraphFlow: Workflow-based Big Graph Processing"
 collection: publications
 permalink: /publication/graphflow
 excerpt: 'This paper introduces GraphFlow framework for processing big graphs using Galaxy and Apache Spark.'
