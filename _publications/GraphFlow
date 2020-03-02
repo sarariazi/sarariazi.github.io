@@ -8,10 +8,9 @@ venue: 'IEEE Big Data'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://hpcl.cs.uoregon.edu/pubs/biggraphs16.pdf)
 
 Recommended citation: S. Riazi and B. Norris, GraphFlow: Workflow-Based Big Graph Processing, In Proc. of 2016 IEEE International Conference on Big Data (Big Data), 2016.
 
