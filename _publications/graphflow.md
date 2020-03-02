@@ -9,7 +9,7 @@ paperurl: 'https://hpcl.cs.uoregon.edu/pubs/biggraphs16.pdf'
 citation: 'S. Riazi and B. Norris, GraphFlow: Workflow-Based Big Graph Processing, In Proc. of 2016 IEEE International Conference on Big Data (Big Data), 2016.'
 ---
 
-
+<img width='50%" src='images/graphflow.png' />
 [Download paper here](https://hpcl.cs.uoregon.edu/pubs/biggraphs16.pdf)
 
 Recommended citation: S. Riazi and B. Norris, GraphFlow: Workflow-Based Big Graph Processing, In Proc. of 2016 IEEE International Conference on Big Data (Big Data), 2016.
