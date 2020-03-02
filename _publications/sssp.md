@@ -2,7 +2,7 @@
 title: 'Single-Source Shortest Path Tree for Big Dynamic Graphs'
 collection: publications
 permalink: /publication/sssp
-excerpt: 'This paper introduces novel algorithms for computing SSSP over very large dynamic graphs using a vertex-centric approach.' 
+excerpt: 'This paper introduces novel algorithms for computing SSSP over very large dynamic graphs using a vertex-centric approach. <br><img width="30%" src="/images/sssp.png" />' 
 date: 2018-12-01
 venue: 'IEEE Big Data'
 paperurl: 'http://sarariazi.github.io/files/sssp.pdf'
