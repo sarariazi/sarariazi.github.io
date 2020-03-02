@@ -2,7 +2,7 @@
 title: "GraphFlow: Workflow-based Big Graph Processing"
 collection: publications
 permalink: /publication/graphflow
-excerpt: 'This paper introduces GraphFlow framework for processing big graphs using Galaxy and Apache Spark.'
+excerpt: 'This paper introduces GraphFlow framework for processing big graphs using Galaxy and Apache Spark. <img width="50%" src="/images/graphflow.png" />'
 date: 2016-12-01
 venue: 'IEEE Big Data'
 paperurl: 'https://hpcl.cs.uoregon.edu/pubs/biggraphs16.pdf'
@@ -10,6 +10,7 @@ citation: 'S. Riazi and B. Norris, GraphFlow: Workflow-Based Big Graph Processin
 ---
 
 <img width='50%' src='/images/graphflow.png' />
+
 [Download paper here](https://hpcl.cs.uoregon.edu/pubs/biggraphs16.pdf)
 
 Recommended citation: S. Riazi and B. Norris, GraphFlow: Workflow-Based Big Graph Processing, In Proc. of 2016 IEEE International Conference on Big Data (Big Data), 2016.
