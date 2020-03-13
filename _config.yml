@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sara Riazi, Ph.D."
 title_separator          : "-"
-name                     : &name "Sara Riazi"
+name                     : &name "Sara"
 description              : &description "Visiting Assistant Professor"
 url                      : https://sarariazi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sara Riazi"
-  avatar           : "profile.png"
+  avatar           : "sara.png"
   bio              : "Visiting Assistant Professor"
   location         : "New Haven, CT"
   employer         :
