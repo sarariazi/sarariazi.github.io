@@ -10,7 +10,8 @@ redirect_from:
 
 <h1> About Me </h1>
 
-I am a visting assistant professor in the Department of Computer Science at the University of New Haven.
+I am a visting assistant professor in the Department of Computer Science at the University of North Carlonia-Charlotte.
+Prior to joining UNCC, I was an assistant professor in the Department of Computer Science at the University of New Haven.
 I got my Ph.D. from the University of Oregon under the supervision of Prof. Boyana Norris in 2019 with a dissertation on "Distributed Memory Processing of Very Large Graphs". 
 
 <br>
